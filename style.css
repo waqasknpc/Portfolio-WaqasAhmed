@@ -370,7 +370,7 @@ nav{
     width: 900px;
     height: 700px;
     background-color: var(--primary-color);
-    background-image: url(/images/bg_imageN.png);
+    background-image: url(images/bg_imageN.png);
     background-repeat: no-repeat;
     background-position: right 100%;
     background-origin: content-box;
